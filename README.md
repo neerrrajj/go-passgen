@@ -1,13 +1,13 @@
-# Password Generator Tool
+## Password Generator Tool
 
 This CLI tool, written in Go, generates random passwords with customizable options. Users can specify the password length and choose to include digits and special characters.
 
-## Installation
+### Installation
 
 1. Clone the repository:
     ```sh
     git clone https://github.com/neerrrajj/go-passgen.git
-    cd password-generator-tool
+    cd go-passgen
     ```
 
 2. Install dependencies:
@@ -15,7 +15,7 @@ This CLI tool, written in Go, generates random passwords with customizable optio
     go get github.com/spf13/cobra
     ```
 
-## Usage
+### Usage
 
 Run the application with the desired options:
 ```sh
