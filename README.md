@@ -7,7 +7,7 @@ This CLI tool, written in Go, generates random passwords with customizable optio
 1. Clone the repository:
     ```sh
     git clone https://github.com/neerrrajj/go-passgen.git
-    cd password-generator-tool
+    cd go-passgen
     ```
 
 2. Install dependencies:
